@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2eb8c0&height=200&section=header&text=Shivam%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ccfffe" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=197d7d&height=200&section=header&text=Shivam%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ccfffe" width="100%" alt="Header Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EB8C0&center=true&vCenter=true&multiline=true&width=800&height=70&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+production-grade+web+%26+mobile+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=197d7d&center=true&vCenter=true&multiline=true&width=800&height=70&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+production-grade+web+%26+mobile+apps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=shivamsharma04243&style=for-the-badge&color=2eb8c0&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=shivamsharma04243&style=for-the-badge&color=197d7d&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -49,7 +49,7 @@ const shivam = {
 - Delivered **10+ production-grade applications** across multiple business domains
 - Exploring **DevOps, cloud architecture** and **AI integration** patterns
 - **2,136+ GitHub contributions** in 2025–2026 across 15+ repositories
-- **MCA (First Class)** — Indira Gandhi National Open University
+- **Master of Computer Applications (MCA)** — Indira Gandhi National Open University
 
 <br/>
 
@@ -85,13 +85,13 @@ const shivam = {
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-2136%2B-2eb8c0?style=for-the-badge&logo=github&logoColor=white" width="23%" />
+  <img src="https://img.shields.io/badge/Contributions-2136%2B-197d7d?style=for-the-badge&logo=github&logoColor=white" width="23%" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Apps%20Delivered-10%2B-2eb8c0?style=for-the-badge&logo=checkmarx&logoColor=white" width="23%" />
+  <img src="https://img.shields.io/badge/Apps%20Delivered-10%2B-197d7d?style=for-the-badge&logo=checkmarx&logoColor=white" width="23%" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2eb8c0?style=for-the-badge&logo=clockify&logoColor=white" width="23%" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-197d7d?style=for-the-badge&logo=clockify&logoColor=white" width="23%" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-15%2B-2eb8c0?style=for-the-badge&logo=git&logoColor=white" width="23%" />
+  <img src="https://img.shields.io/badge/Repositories-15%2B-197d7d?style=for-the-badge&logo=git&logoColor=white" width="23%" />
 </p>
 
 <br/>
@@ -102,6 +102,7 @@ const shivam = {
 | Apps Delivered | 10+ production-grade applications |
 | Industries Covered | Agriculture · HR · Insurance · Legal · SaaS |
 | Tech Domains | Frontend · Backend · Mobile · DevOps · Database |
+| Education | Master of Computer Applications (MCA) — IGNOU |
 | Recognition | Certificate of Appreciation — Creative Studio 24 |
 
 <br/>
@@ -135,5 +136,5 @@ const shivam = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2eb8c0&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=197d7d&height=100&section=footer" width="100%" />
 </div>
