@@ -102,7 +102,6 @@ const shivam = {
 | Apps Delivered | 10+ production-grade applications |
 | Industries Covered | Agriculture · HR · Insurance · Legal · SaaS |
 | Tech Domains | Frontend · Backend · Mobile · DevOps · Database |
-| Education | MCA First Class — IGNOU |
 | Recognition | Certificate of Appreciation — Creative Studio 24 |
 
 <br/>
