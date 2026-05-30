@@ -32,7 +32,7 @@
 const shivam = {
   name:           "Shivam Sharma",
   role:           "Full Stack Developer",
-  company:        "Creative Studio 24 — Digital Agency",
+  company:        "CS 24",
   location:       "Noida, Uttar Pradesh, India",
   experience:     "2+ years",
   stack:          ["React.js", "Next.js", "Node.js", "TypeScript", "React Native"],
